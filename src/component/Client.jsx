@@ -1,11 +1,11 @@
 import React from 'react';
 
-const Intro = () => {
+const Client = () => {
     return (
         <div>
-            <h1>intro</h1>
+            <h1>clinent pages</h1>
         </div>
     );
 };
 
-export default Intro;
+export default Client;
