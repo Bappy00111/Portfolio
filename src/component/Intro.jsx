@@ -1,7 +1,7 @@
 import React from 'react';
 import img from '../../src/assets/bappy.png'
 import hireMeImg from '../../src/assets/hireme.png'
-const Home = () => {
+const Intro = () => {
     return (
         <div className='h-[calc(100vh - 80px)]'>
             <section className='grid md:grid-cols-2 justify-center items-center gap-10'>
@@ -22,4 +22,4 @@ const Home = () => {
     );
 };
 
-export default Home;
+export default Intro;
